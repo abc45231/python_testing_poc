@@ -7,5 +7,5 @@ Case1
     ${resultvalue}=    Join Two Words    Testing    World
     log    ${resultvalue}
 
-Case2
+Case21
     Combinationkeyword
